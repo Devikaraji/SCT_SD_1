@@ -1,15 +1,34 @@
-# SCT_SD_1
-Temperature Converter - SkillCraft Internship Task 1
-# 🌡️ Temperature Converter
+# 🌡️ Temperature Converter - Flask Web App
 
-This is a simple Python program that converts temperatures between Celsius, Fahrenheit, and Kelvin.
+A full-stack web app to convert temperature between Celsius, Fahrenheit, and Kelvin — built for SkillCraft Internship Task 1.
 
-## 🔧 Features
-- Convert from any unit to another
-- Menu-based interactive CLI
-- Accurate up to 2 decimal places
+---
 
-## 📦 How to Run
+## 🚀 Features
+- 🔁 Convert between Celsius, Fahrenheit, and Kelvin
+- 🧠 Backend powered by Flask (Python)
+- 🎨 Frontend with HTML, CSS, and JS
+- 💡 Simple and clean UI
+
+---
+
+## 📸 Screenshot
+
+![Temperature Converter UI](images/converter_ui.png)
+
+---
+
+## 🛠️ Tech Stack
+
+| Frontend | Backend | Language |
+|----------|---------|----------|
+| HTML/CSS/JS | Flask | Python |
+
+---
+
+## ▶️ How to Run
 
 ```bash
-python temperature_converter.py
+pip install flask
+python app.py
+<img width="1863" height="897" alt="image" src="https://github.com/user-attachments/assets/07b7f8b5-53c0-4102-a472-ba29c238713c" />
