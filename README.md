@@ -15,7 +15,8 @@ A full-stack web app to convert temperature between Celsius, Fahrenheit, and Kel
 ## 📸 Screenshot
 
 ![Temperature Converter UI](converter_ui.png)
-
+![Temperature Converter UI](image1.png)
+![Temperature Converter UI](image2.png)
 ---
 
 ## 🛠️ Tech Stack
